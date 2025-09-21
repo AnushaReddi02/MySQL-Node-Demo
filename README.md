@@ -61,7 +61,7 @@ npm install mysql2 @faker-js/faker
 
 After running SELECT * FROM users;
 
-![Output Screenshot](https://github.com/YourUsername/YourRepo/blob/main/assets/screenshot.png?raw=true)
+![Output Screenshot](https://github.com/AnushaReddi02/MySQL-Node-Demo/blob/main/output%20screenshot.png?raw=true)
 
 ---
 
