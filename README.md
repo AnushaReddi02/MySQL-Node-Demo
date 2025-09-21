@@ -32,22 +32,25 @@ npm install mysql2 @faker-js/faker
 3. **Set up MySQL database**  
 - Open MySQL Workbench or terminal
 - Create a database:
+
    ```
   CREATE DATABASE MySQL_With_Node;
   USE MySQL_With_Node;
    ```
+   
 - Create users table:
    ```
-  CREATE TABLE users (
-  id VARCHAR(255) PRIMARY KEY,
-  username VARCHAR(50),
-  email VARCHAR(100),
-  password VARCHAR(100)
-);
-```
+     CREATE TABLE users (
+     id VARCHAR(255) PRIMARY KEY,
+     username VARCHAR(50),
+     email VARCHAR(100),
+     password VARCHAR(100)
+   );
+  ```
 ---
 
-4. **Run The Project**  
+4. **Run The Project**
+
    ```
    node index.js
    ```
