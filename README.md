@@ -22,14 +22,11 @@ I used the **Faker.js library** to generate random user data such as `id`, `user
    git clone https://github.com/AnushaReddi02/MySQL-Node-Demo.git
   
    ```
-
-   ---
-   
-2.**Install dependencies**
+---
+2. **Install dependencies**
 ```
 npm install mysql2 @faker-js/faker
 ```
-
 ---
 
 3. **Set up MySQL database**  
@@ -50,8 +47,7 @@ npm install mysql2 @faker-js/faker
 ```
 ---
 
-   ```
-  4. **Run The Project**  
+4. **Run The Project**  
    ```
    node index.js
    ```
